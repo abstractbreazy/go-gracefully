@@ -1,0 +1,9 @@
+# executable
+*.exe
+
+# ide
+.idea
+
+# docs
+docs.md
+*.pdf
